@@ -3,7 +3,7 @@ body {
   }
   
   .bannerImg {
-    background-image: url("");
+    background-image: url("../header.jpeg");
     background-color: #cccccc;
     height: 400px;
     background-position: center;
